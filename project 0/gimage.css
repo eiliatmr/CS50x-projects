@@ -1,0 +1,52 @@
+.google_image{
+    font-family: 'Roboto' , sans-serif;
+}
+.googlelogo{
+    margin-top: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.uselesstxt{
+    position: absolute;
+    margin: 75px 0px 0px 209px;
+    color: rgb(86, 134, 223);
+}
+.searchinput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50px;
+}
+#searchstyle{
+    margin-top: 26px;
+    height: 40px;
+    width: 530px;
+    padding-left: 45px;
+    border-radius: 35px;
+    border-color: rgb(196, 196, 196);
+    border-style: solid;
+    font-size: 16px;
+}
+#submitstyle{
+    width: 18px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 542px;
+}  
+#uselessbtn{
+    width: 18px;
+    position: absolute;
+    margin: 40px 0px 0px 15px;
+}
+.info{
+    position: fixed;
+    bottom: 0;
+    padding: 13px 0px 12px 0px;
+    font-size: 14px;
+}
+#info1 , #info2 , #info3 , #info4{
+    text-decoration: none;
+    color: gray;
+    margin-left: 30px;
+}

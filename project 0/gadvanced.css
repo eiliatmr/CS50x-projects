@@ -1,0 +1,44 @@
+.google_advanced{
+    font-family: 'Roboto' , sans-serif;
+}
+#googlehome{
+    width: 72px;
+    margin: 24px 0px 0px 22px;
+}
+#advancedtxt{
+    font-size: 20px;
+    margin: 6px 0px 22px 45px;
+    color: rgb(223, 0, 0);
+}
+#findthispagetxt{
+    font-size: 16px;
+    margin: 3px 0px 0px 45px;
+}
+#info{
+    margin: 20px 0px 0px 45px;
+    font-size: 13px;
+}
+#firstbox , #secondbox , #thirdbox , #forthbox{
+    border-color: rgb(250, 250, 250);
+    border-style: groove;
+    padding: 0px 0px 0px 7px;
+    width: 570px;
+}
+#firstbox{
+    margin-left: 90px;
+}
+#secondbox{
+    margin-left: 32px;
+}
+#thirdbox{
+    margin-left: 68px;
+}
+#forthbox{
+    margin-left: 60px;
+}
+#advancedbtn{
+    font-size: 12px;
+    padding: 5px 14px 5px 14px;
+    margin: 0px 0px 0px 673px;
+    border-radius: 3px;
+}
